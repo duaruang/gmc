@@ -1,0 +1,1 @@
+<link href="<?php echo e(asset('assets/vendor/sweetalert2/sweetalert2.min.css')); ?>" rel="stylesheet"><?php /**PATH /home/u1548576/public_html/gmc/gmc/resources/views/vendor/swal/css/swal.blade.php ENDPATH**/ ?>

@@ -1,0 +1,19 @@
+{
+    "name": "muhamadrezaar/instagram",
+    "description": "Laravel 5 Instagram Package",
+    "license": "MIT",
+    "keywords" : ["laravel" , "instagram"],
+    "authors": [
+        {
+            "name": "Muhamad Reza Abdul Rohim",
+            "email": "reza.wikrama3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oblagio\\Instagram\\": "src/"
+        }
+    }
+}
